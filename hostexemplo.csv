@@ -1,0 +1,7 @@
+﻿hostauto1;12.13.14.15;public;Huawei - NE8000;bgp
+hostauto2;12.13.14.16;public;Huawei - NE8000;bng pppoe
+hostauto3;12.13.14.17;public;Mikrotik - CCR1036-8G-2S+;cgnat
+hostauto4;12.13.14.18;public;UBNT - EdgeSwitch 16 XG;Interfaces e saude
+hostauto5;12.13.14.19;public;Mikrotik - CRS326-24G-2S+;Interfaces e saude
+hostauto6;12.13.14.20;public;Mikrotik - CSS326-24G-2S+;Interfaces e saude
+hostauto7;12.13.14.21;public;Fiberhome - AN5516-06;Interfaces PON
